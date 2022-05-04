@@ -7,6 +7,7 @@
 #         print()
 # rysujProstokat(2,3)
 # rysujProstokat(2, 3, '*')
+print("x")
 
 ### Rekurancja uruchamia samą siebie
 # def gwiazdki(liczbaGwiazdek):
