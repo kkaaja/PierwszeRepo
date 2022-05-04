@@ -1,4 +1,4 @@
-
+print("Witaj")
 
 # def rysujProstokat(dlugosc, szerokosc, element=4):
 #     for i in range(dlugosc):
