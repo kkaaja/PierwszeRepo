@@ -1,7 +1,4 @@
-# liczba=7
-# def dzialanie():
-#     liczba=5
-# print(liczba)
+
 
 # def rysujProstokat(dlugosc, szerokosc, element=4):
 #     for i in range(dlugosc):
